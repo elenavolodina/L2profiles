@@ -15,7 +15,7 @@ This is split into several tasks:
 
 3. (in future: Manual checks of SweLLex, a sense-based word list generated from SweLL-pilot)
 
-4. Manual lexocigraphic annotation of SVALex (and ev. SweLLex) using LEGATO tool: https://spraakbanken.gu.se/larkalabb/legato 
+4. Manual lexicographic annotation of SVALex (and ev. SweLLex) using LEGATO tool: https://spraakbanken.gu.se/larkalabb/legato 
 
 5. 
 
@@ -24,11 +24,15 @@ This is split into several tasks:
 
 This is split into several tasks:
 
-1. Definiteness
+1. Passives
 
-2. Passives
+2. Prepositions
 
-3. 
+3. Definiteness
+
+4. Embedded clauses?
+
+5. 
 
 ## Report issues 
 
