@@ -1,7 +1,13 @@
 # L2profiles
 RJ funded project - https://spraakbanken.gu.se/eng/l2-profiling 
 
+## Links to various project sources
+
 Status document (with links): https://docs.google.com/document/d/16JzEDFyDhbV9Updw_QYGHZJXdMbZ1LR3NTKJEsJKuqk/edit# 
+
+Moodle site: https://moodle.helsinki.fi/course/view.php?id=28196
+
+GU box: https://gubox.account.box.com/login
 
 Several directions are pursued in this project:
 
@@ -41,3 +47,4 @@ This is split into several tasks:
 2. For corpus annotation checks & for SVALex checks, use issues on this (current) github page
 
 3. 
+
